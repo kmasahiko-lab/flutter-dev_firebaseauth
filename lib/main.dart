@@ -87,7 +87,7 @@ class _MyAuthPageState extends State<MyAuthPage> {
                     });
                   }
                 },
-                child: Text("ユーザー登録"),
+                child: Text("ユーザー登録 commit test"),
               ),
               const SizedBox(height: 8),
               Text(infoText)
